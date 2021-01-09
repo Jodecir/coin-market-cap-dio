@@ -21,9 +21,9 @@ Repositório da aula de como utilizar a API Coin Market Cap ensinada na platafor
 
 #### Documentação da API:
 
-[Portal do desenvolvedor](https://pro.coinmarketcap.com/account) 
-[Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication)
-[Documentação API](https://coinmarketcap.com/api/documentation/v1/#)
+* [Portal do desenvolvedor](https://pro.coinmarketcap.com/account)
+* [Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication)
+* [Documentação API](https://coinmarketcap.com/api/documentation/v1/#)
 
 #### Contatos:
 
